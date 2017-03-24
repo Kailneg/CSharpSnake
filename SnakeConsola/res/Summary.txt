@@ -1,0 +1,20 @@
+﻿--PROGRAMA SNAKE
+
+Objetivos:
+
+Simular el juego del Snake en consola.
+
+-El tablero será como mínimo de 10x10, y máximo de 30x30.
+-La forma del tablero será la siguiente:
+
+-Bordes: 
+╔		╗		╚		╝		║		═
+(201) (187)	 (200)	 (188)	 (186)	  (205)
+-Piezas: 
+· (relleno)
+% (comestible)
+x (cuerpo)
+■ (254, cabeza)
+
+EJEMPLO:
+
